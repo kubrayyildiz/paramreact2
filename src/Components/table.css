@@ -1,0 +1,35 @@
+table {
+    border-collapse: collapse;
+   margin-left:385px; 
+   margin-right:185px;
+   
+  }
+  
+  th,
+  td {
+    border: 1px solid #ffffff;
+    text-align: left;
+    padding: 8px;
+    font-size: large;
+    width: 190px;
+    
+  }
+  
+  th {
+    background-color:rgb(83, 125, 128)
+  }
+  
+  td {
+    background-color:rgb(221, 216, 208);
+    
+  }
+  
+#a{
+width: 100px;
+}
+body{
+    background-color:beige
+}
+p {
+    font-size:15px
+}
